@@ -6,29 +6,29 @@
 // RECODE BACK BY ARULL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285822347348'] 
-global.mods = ['6285822347348'] 
-global.prems = ['6285822347348'] 
+global.owner = ['62895185318490'] 
+global.mods = ['62895185318490'] 
+global.prems = ['62895185318490'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ArullOfc ✰'
-global.numberowner = '6285822347348'
-global.instagram = 'https://instagram.com/sahrulwara_____'
+global.nameowner = 'ZEXFAL ✰'
+global.numberowner = '62895185318490'
+global.instagram = 'https://instagram.com/zexfal_.jb?igshid=YmMyMTA2M2Y='
 global.github = 'https://github.com/warikrr'
-global.dana = '085822347348'
-global.pulsa = '085822347348'
-global.gopay = ''
+global.ovo = '6289518531849'
+global.pulsa = '085878149080'
+global.gopay = 'https://saweria.co/ZEXFALBotz'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ArullBotzMD'
+global.namebot = 'ZEXFALBotz'
 global.gc = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS'
 global.web = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://saweria.co/arullOfc'
-global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 MINGGU Rp 5.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 10.000\nMAKSIMAL 1 GRUP \n》 Rp 20.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 30.000\nMAKSIMAL 3 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'
+global.webm = 'https://saweria.co/ZEXFALBotz'
+global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMINGGU 6K\n》PERBULAN 8K\n》PERMANEN 12K\n》JADI BOT MANEN 30K\n》MURID BOT 20K\n》JIKA MAU ORDER HUBUNGI OWNERNYA YA KAK, TERIMA KASIH😊\n'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ini juga ganti 
+global.fotonya1 = 'https://drive.google.com/file/d/1-gyjHeTJn_CTJfMgYK26w0k-zaLDpvp1/view?usp=drivesdk' //ganti jadi foto bot mu
+global.fotonya2 = 'https://drive.google.com/file/d/1-gyjHeTJn_CTJfMgYK26w0k-zaLDpvp1/view?usp=drivesdk' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '↻ArullBotz𝙼𝙳'
@@ -37,7 +37,7 @@ global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 ArullOfc ×፝֟͜×'
 global.wm3 = 'ᯤ Arull𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg'
+global.media = 'https://drive.google.com/file/d/1-gyjHeTJn_CTJfMgYK26w0k-zaLDpvp1/view?usp=drivesdk'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '⏳Tunggu Sedang Proses...'
 global.eror = '_*🚨 Server Bot Sedang Error*_'
